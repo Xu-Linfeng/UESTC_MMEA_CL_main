@@ -1,0 +1,12 @@
+{
+    "prefix": "reproduce",
+    "dataset": "mydataset",
+    "memory_size": 160,
+    "memory_per_class": 5,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 4,
+    "increment": 4,
+    "model_name": "myfinetune",
+    "seed": [1993]
+}
