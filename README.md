@@ -13,7 +13,7 @@ _Our work in the dataset publication paper is mainly based on [_TBN_](https://gi
 ## Installation
 * Python 3.6+
 * PyTorch 1.7
-* CUDA 11.0
+* CUDA 11.7
 * tbqm
 
 
@@ -56,8 +56,8 @@ _Our work in the dataset publication paper is mainly based on [_TBN_](https://gi
 
    **After downloading the original data set according to the previous step, if you want to get the baseline results, you need to preprocess the data.**
 
-   - Follow the steps in the [hyperlink](https://github.com/ivipclab/Frame-extractor to extract video clips into images at a specific frame rate.
-   - No additional preprocessing of sensor data is required and is included in the python code
+   - Follow the steps in the [hyperlink](https://github.com/ivipclab/Frame-extractor to extract video clips into images at a specific frame rate. Please place the obtained picture in *”./data/"*.
+   - No additional preprocessing of sensor data is required and is included in the python code.
 
 
 
@@ -72,7 +72,7 @@ python main.py mydataset RGB Acce Gyro --config ./exps/myfinetune.json --train_l
 
 After modifying the parameters, you only need to run the following code 
 ```
-sh train.sh
+sh train1.sh
 ```
 of course, detail information about these parameters in _opts.py_ . you also can change the detail parameters at  _opts.py_ in this project.
 
