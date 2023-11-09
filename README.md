@@ -106,10 +106,14 @@ of course, detail information about these parameters in _opts.py_ . you also can
 ## Citition
 If you find the uestc-mmea-cl dataset and code useful in your research, please consider citing:  
 ```
-@article{xu2023towards,
-	title={Towards Continual Egocentric Activity Recognition: A Multi-modal Egocentric Activity Dataset for Continual Learning },
-	author={Xu, Linfeng and Wu, Qingbo and Pan, Lili and Meng, Fanman and Li, Hongliang and He, Chiyuan and Wang, Hanxin and Cheng, Shaoxu and Dai, Yu},
-	journal={arXiv preprint arXiv: 2301.10931},
-	year={2023}
+@ARTICLE{10184468,
+  author={Xu, Linfeng and Wu, Qingbo and Pan, Lili and Meng, Fanman and Li, Hongliang and He, Chiyuan and Wang, Hanxin and Cheng, Shaoxu and Dai, Yu},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Towards Continual Egocentric Activity Recognition: A Multi-Modal Egocentric Activity Dataset for Continual Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TMM.2023.3295899}
 }
 ```
