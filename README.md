@@ -110,10 +110,10 @@ If you find the uestc-mmea-cl dataset and code useful in your research, please c
   author={Xu, Linfeng and Wu, Qingbo and Pan, Lili and Meng, Fanman and Li, Hongliang and He, Chiyuan and Wang, Hanxin and Cheng, Shaoxu and Dai, Yu},
   journal={IEEE Transactions on Multimedia}, 
   title={Towards Continual Egocentric Activity Recognition: A Multi-Modal Egocentric Activity Dataset for Continual Learning}, 
-  year={2023},
-  volume={},
+  year={2024},
+  volume={26},
   number={},
-  pages={1-15},
+  pages={2430-2443},
   doi={10.1109/TMM.2023.3295899}
 }
 ```
